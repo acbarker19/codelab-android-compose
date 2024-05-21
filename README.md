@@ -7,7 +7,7 @@ For more information about Jetpack Compose, please [read the documentation](http
 
 ## 💻 Requirements
 
-[Android Studio Chipmunk](https://developer.android.com/studio).
+[Latest version of Android Studio](https://developer.android.com/studio).
 
 ## 🧬 Codelabs
 
@@ -52,7 +52,7 @@ isolation, debugging tests, the semantics tree, and test synchronization.
 Learn about the various ways to improve an app’s accessibility. Increase touch target sizes, add
 content descriptions, create custom actions, and more.
 
-### [Adaptive codelab](https://developer.android.com/codelabs/jetpack-compose-adaptability)
+### [Adaptive codelab](https://codelabs.developers.google.com/jetpack-compose-adaptability)
  
 Learn how to build adaptive apps for phones, tablets and foldables with Jetpack Compose. Improve 
 reachability and ergonomics of your app with Material navigation components. 
